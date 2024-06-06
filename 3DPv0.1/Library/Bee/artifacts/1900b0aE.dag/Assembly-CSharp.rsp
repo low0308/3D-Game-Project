@@ -581,6 +581,7 @@
 "Assets/3DGamekitLite/Scripts/Game/Weapon/Spit.cs"
 "Assets/3DGamekitLite/Scripts/Game/Weapon/TimeEffect.cs"
 "Assets/3DGamekitLite/Scripts/Scripts/AmbientAudio.cs"
+"Assets/3DGamekitLite/Scripts/Scripts/SirenLightRotation.cs"
 "Assets/3DGamekitLite/Scripts/Scripts/SoundTrack.cs"
 "Assets/3DGamekitLite/Scripts/Scripts/SoundTrackVolume.cs"
 "Assets/3DGamekitLite/TutorialInfo/Scripts/Readme.cs"
