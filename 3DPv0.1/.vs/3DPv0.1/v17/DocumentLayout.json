@@ -1,22 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\unity project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\scripts\\sirenlightrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\packages\\interactive\\runtime\\sendgamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\packages\\interactive\\runtime\\sendgamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\game\\damagesystem\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\game\\damagesystem\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBADB91-06AC-8DCE-97E8-FB768E5D8107}|Assembly-CSharp-Editor.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\editor\\newscenecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBADB91-06AC-8DCE-97E8-FB768E5D8107}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\editor\\newscenecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\packages\\scenemanagement\\runtime\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\3dgamekitlite\\packages\\scenemanagement\\runtime\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\assets\\3dgamekitlite\\scripts\\scripts\\sirenlightrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\scripts\\sirenlightrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\assets\\3dgamekitlite\\packages\\interactive\\runtime\\sendgamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\packages\\interactive\\runtime\\sendgamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\assets\\3dgamekitlite\\packages\\interactive\\runtime\\sendgamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\3dgamekitlite\\packages\\interactive\\runtime\\sendgamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,46 +49,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SirenLightRotation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
-              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
-              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "SendGameCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
+              "RelativeToolTip": "Assets\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAewCsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T19:26:24.222Z",
+              "WhenOpened": "2024-06-08T07:15:30.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\Damageable.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\Damageable.cs",
+              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\Damageable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:53:25.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewSceneCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Editor\\NewSceneCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Editor\\NewSceneCreator.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Editor\\NewSceneCreator.cs",
+              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Editor\\NewSceneCreator.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA6wEYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:43:54.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Packages\\SceneManagement\\Runtime\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Packages\\SceneManagement\\Runtime\\SceneController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Packages\\SceneManagement\\Runtime\\SceneController.cs",
+              "RelativeToolTip": "Assets\\3DGamekitLite\\Packages\\SceneManagement\\Runtime\\SceneController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAHMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:42:53.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SirenLightRotation.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
+              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:26:24.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SirenLightRotation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs",
-              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs",
-              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T19:20:11.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BrushSettingsEditor.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\Documents\\Unity Project\\3DPv0.1\\Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\User\\Documents\\Unity Project\\3DPv0.1\\Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T14:20:28.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SendGameCommand.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
               "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
               "RelativeToolTip": "Assets\\3DGamekitLite\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAWwCsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
