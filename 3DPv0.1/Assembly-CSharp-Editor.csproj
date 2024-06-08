@@ -1082,13 +1082,13 @@
       <Project>{CD6DF2F2-478F-52DF-A814-3367EB974BFB}</Project>
       <Name>SimpleSFXRuntime</Name>
     </ProjectReference>
-    <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{FED86E10-D47E-12F9-4BF9-0022F625AB01}</Project>
-      <Name>NavMeshComponents</Name>
-    </ProjectReference>
     <ProjectReference Include="WorldBuildingRuntime.csproj">
       <Project>{41AF2593-6A86-EB5B-113D-053489DE0301}</Project>
       <Name>WorldBuildingRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="NavMeshComponents.csproj">
+      <Project>{FED86E10-D47E-12F9-4BF9-0022F625AB01}</Project>
+      <Name>NavMeshComponents</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponentsEditor.csproj">
       <Project>{45F6BBD5-A265-9B53-6400-23E683BF6E4D}</Project>

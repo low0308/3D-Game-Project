@@ -499,6 +499,7 @@
 "Assets/3DGamekitLite/Scripts/Scripts/SoundTrack.cs"
 "Assets/3DGamekitLite/Scripts/Scripts/SoundTrackVolume.cs"
 "Assets/3DGamekitLite/TutorialInfo/Scripts/Readme.cs"
+"Assets/oneTime.cs"
 "Assets/Packages/DefaultPlayables/LightControl/LightControlBehaviour.cs"
 "Assets/Packages/DefaultPlayables/LightControl/LightControlClip.cs"
 "Assets/Packages/DefaultPlayables/LightControl/LightControlMixerBehaviour.cs"

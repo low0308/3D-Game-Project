@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\game\\enemies\\contactdamager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\game\\enemies\\contactdamager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\game\\damagesystem\\deathvolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\game\\damagesystem\\deathvolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\assets\\3dgamekitlite\\scripts\\game\\damagesystem\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\game\\damagesystem\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\game\\ui\\dialoguecanvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\game\\ui\\dialoguecanvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\packages\\interactive\\runtime\\sendgamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\packages\\interactive\\runtime\\sendgamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\game\\damagesystem\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\game\\damagesystem\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\game\\localization\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAD7664-C02D-78E4-658B-3E5D6EFC38C5}|Assembly-CSharp.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\game\\localization\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EBADB91-06AC-8DCE-97E8-FB768E5D8107}|Assembly-CSharp-Editor.csproj|c:\\users\\owner\\documents\\github\\3d-game-project\\3dpv0.1\\assets\\3dgamekitlite\\scripts\\editor\\newscenecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EBADB91-06AC-8DCE-97E8-FB768E5D8107}|Assembly-CSharp-Editor.csproj|C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\assets\\3dgamekitlite\\scripts\\editor\\newscenecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EBADB91-06AC-8DCE-97E8-FB768E5D8107}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\3dgamekitlite\\scripts\\editor\\newscenecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,6 +65,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ContactDamager.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\Enemies\\ContactDamager.cs",
+              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Game\\Enemies\\ContactDamager.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\Enemies\\ContactDamager.cs",
+              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Game\\Enemies\\ContactDamager.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:06:16.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeathVolume.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\DeathVolume.cs",
+              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\DeathVolume.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\DeathVolume.cs",
+              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\DeathVolume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:04:14.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Translator.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\Localization\\Translator.cs",
+              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Game\\Localization\\Translator.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\Localization\\Translator.cs",
+              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Game\\Localization\\Translator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:36:29.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DialogueCanvasController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\UI\\DialogueCanvasController.cs",
+              "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Game\\UI\\DialogueCanvasController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\UI\\DialogueCanvasController.cs",
+              "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Game\\UI\\DialogueCanvasController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:29:50.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SendGameCommand.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
               "RelativeDocumentMoniker": "Assets\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
@@ -61,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Damageable.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\Damageable.cs",
               "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\Damageable.cs",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\Damageable.cs",
               "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Game\\DamageSystem\\Damageable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T06:53:25.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "NewSceneCreator.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Editor\\NewSceneCreator.cs",
               "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Editor\\NewSceneCreator.cs",
@@ -82,12 +150,11 @@
               "RelativeToolTip": "Assets\\3DGamekitLite\\Scripts\\Editor\\NewSceneCreator.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAA6wEYAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T18:43:54.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T18:43:54.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SceneController.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Packages\\SceneManagement\\Runtime\\SceneController.cs",
               "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Packages\\SceneManagement\\Runtime\\SceneController.cs",
@@ -99,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SirenLightRotation.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
               "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Scripts\\Scripts\\SirenLightRotation.cs",
@@ -111,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "SirenLightRotation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\Documents\\Unity Project\\3DPv0.1\\Assets\\3DGamekitLite\\Scripts\\SirenLightRotation.cs",
@@ -122,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "BrushSettingsEditor.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Unity Project\\3DPv0.1\\Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\Documents\\Unity Project\\3DPv0.1\\Library\\PackageCache\\com.unity.polybrush@1.1.5\\Editor\\Interface\\BrushSettingsEditor.cs",
@@ -134,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "SendGameCommand.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\3D-Game-Project\\3DPv0.1\\Assets\\3DGamekitLite\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
               "RelativeDocumentMoniker": "Assets\\3DGamekitLite\\Packages\\Interactive\\Runtime\\SendGameCommand.cs",
