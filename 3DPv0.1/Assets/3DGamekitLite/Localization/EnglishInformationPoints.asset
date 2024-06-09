@@ -49,5 +49,65 @@ MonoBehaviour:
     value: A key! This should come in handy!
   - key: END
     value: The treasure is finally mine!
-  - key: Q1
-    value: WP is peepa pig
+  - key: Room1
+    value: Welcome, challenger! Are you ready to test your knowledge? Choose your
+      path and let the game begin!
+  - key: R3Q1
+    value: Tunku Abdul Rahman was the first Prime Minister of Malaysia, serving from
+      1957 to 1970. He is often referred to as the "Father of Independence" for his
+      role in leading Malaysia to independence from British rule on August 31, 1957.
+  - key: R3Q2
+    value: August 31, 1957, is celebrated as Merdeka Day, marking the day Malaya
+      gained independence from British colonial rule.
+  - key: R3Q3
+    value: The Rukun Negara is the Malaysian national philosophy, established in
+      1970 to promote unity and harmony among Malaysia's diverse population following
+      the racial riots of 1969.
+  - key: R3Q4
+    value: The Cobbold Commission was established in 1962 to gauge public opinion
+      in North Borneo (Sabah) and Sarawak on joining the proposed Federation of Malaysia.
+      The commission's findings were instrumental in the formation of Malaysia in
+      1963.
+  - key: R3Q5
+    value: ' The Malaysia Agreement, signed in 1963, led to the creation of the Federation
+      of Malaysia, bringing together Malaya, North Borneo (Sabah), Sarawak, and Singapore
+      (which later separated in 1965).'
+  - key: R1Q1
+    value: Sarawak, located on the island of Borneo, is the largest state in Malaysia
+      by area, covering approximately 124,450 square kilometers.
+  - key: R1Q2
+    value: Mount Kinabalu, located in Sabah on the island of Borneo, is the highest
+      mountain in Malaysia, standing at 4,095 meters above sea level.
+  - key: R1Q3
+    value: Malaysia is divided into Peninsular Malaysia, which is located on the
+      Malay Peninsula, and East Malaysia, which consists of the states of Sabah and
+      Sarawak on the island of Borneo.
+  - key: R1Q4
+    value: The Malacca Strait separates Peninsular Malaysia from the island of Sumatra
+      (Indonesia). It is one of the busiest shipping lanes in the world.
+  - key: R1Q5
+    value: Fraser's Hill, located in the state of Pahang, is a popular hill station
+      known for its colonial architecture, lush forests, and cool climate. It is
+      a favorite destination for birdwatching and nature lovers.
+  - key: R2Q1
+    value: Nasi Lemak is a popular Malaysian dish consisting of fragrant rice cooked
+      in coconut milk and pandan leaves, served with various accompaniments such
+      as sambal (spicy chili paste), fried anchovies, peanuts, boiled egg, and cucumber.
+  - key: R2Q2
+    value: Rumah Panggung is the name of the traditional Malay house built on stilts.
+      It is designed to elevate the living quarters above the ground to prevent flooding
+      and provide ventilation.
+  - key: R2Q3
+    value: Wayang Kulit is the traditional Malay art form of shadow puppetry. It
+      involves intricately carved leather puppets manipulated behind a backlit screen,
+      accompanied by traditional music and storytelling.
+  - key: R2Q4
+    value: Ketupat is a traditional Malay sweet rice cake wrapped in woven palm leaves,
+      often served during festive occasions such as Hari Raya Aidilfitri (Eid al-Fitr).
+      It is commonly eaten with dishes such as rendang and satay.
+  - key: R2Q5
+    value: Bersanding is the traditional Malay wedding ceremony, where the bride
+      and groom sit together on a dais (pelamin) as a symbol of their union. It is
+      one of the highlights of a Malay wedding celebration.
+  - key: R1Pass
+    value: 'CONGRATULATION!!!!! YOU PASS THE LEVEL! Here''s your reward! '
